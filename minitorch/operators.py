@@ -34,6 +34,47 @@ from typing import Callable, Iterable
 
 # TODO: Implement for Task 0.1.
 
+def add(x: float, y: float) -> float:
+    return x + y
+
+def addLists():
+    pass
+
+def eq(x: float, y: float) -> bool:
+    return (x == y)
+
+def id(x: float) -> float:
+    return x
+
+def inv(x: float) -> float:
+    return (1/x)
+
+def inv_back():
+    pass
+
+def log_back():
+    pass
+
+def lt(x: float, y: float) -> bool:
+    return (x < y)
+
+def max():
+    pass
+
+def mul():
+    pass
+def neg():
+    pass
+def negList():
+    pass
+def prod():
+    pass
+def relu():
+    pass
+def relu_back():
+    pass
+def sigmoid():
+    pass
 
 # ## Task 0.3
 
